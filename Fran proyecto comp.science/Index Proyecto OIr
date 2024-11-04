@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>OIR tecnologia Auditiva.
+	</title>
+</head>
+<body>
+
+  
+        <p  a href="Services Oir Proyecto.html" align="center">About Us - Products - Contacts - Discounts - Services </p>
+   
+
+    <h1 align="center">OIR Teclogia Auditiva</h1>
+
+    <h2>Some of our Hearing Aids:</h2>
+
+  <table>
+        <tr>
+            <td align="center">
+                <img src="hearing-aids-still-life_23-2150634704.avif" alt="Lewi Audifon">
+                <p>Lewi Audifon Germany</p>
+            </td>
+            <td align="Right">
+                <img src="images.JPEG" alt="Riza Audifon">
+                <p>Riza Audifon Germany</p>
+            </td>
+        </tr>
+        <tr>
+        	<td>
+   				 <p align="center"><strong>Our team:</strong> Dr. Juan Francisco Charlone, Dr. Rogelio Charlone, Dr. Rolando Martínez, Diego Sosa, Nancy, Lorenzo Fernández, Catalina Franco, Federico Santana, Juan Manuel Crespi, Marcos Leiva y Florencia Lara.</p>
+  			 	 <p align="center"><strong>Our location:</strong> Bulevar Artigas 2297, Pedro Berro 4573 y Colonia 1852.</p>
+  			 	 <p align="center"><strong>Our Contacts:</strong> <strong>Instagram:</strong> oir.uruguay,<strong> Facebook:</strong> OIR.uy, <strong>Whatsapp:</strong> 098 734 119,<strong> Phone:</strong> 2772 8876 </p>
+			</td>
+        </tr>
+    </table>
+</body>
+</html>
