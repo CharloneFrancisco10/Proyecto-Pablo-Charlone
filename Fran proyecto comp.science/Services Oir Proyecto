@@ -5,38 +5,39 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Services Oir Tecnologia Auditiva</title>
 </head>
-<body>
-<table style="width: 100%; max-width: 900px; margin: auto;">
+<body >
+
+<table >
 	<tr>
 		<td colspan="2" style="text-align: center; padding: 20px;">
 			<h1>Services at Oir Tecnologia Auditiva</h1>
 		</td>
 	</tr>
 	<tr>
-		<td style="width: 700px; padding: 20px;">
+		<td >
 			<h3>Audiograms</h3>
 		</td>
-		<td rowspan="4" style="width: 420px; text-align: right;">
+		<td rowspan="4" >
 			<img src="foto-servicio-.PNG" alt="Photo of a Service">
 		</td>
 	</tr>
 	<tr>
-		<td style="padding: 20px;">
+		<td >
 			<h3>Sonodamped Cabin</h3>
 		</td>
 	</tr>
 	<tr>
-		<td style="padding: 20px;">
+		<td >
 			<h3>Auditory Screenings (Tracking Audiometries)</h3>
 		</td>
 	</tr>
 	<tr>
-		<td style="padding: 20px;">
+		<td >
 			<h3>Logoaudiometry</h3>
 		</td>
 	</tr>
 	<tr>
-		<td colspan="2" style="text-align: center; padding: 20px;">
+		<td colspan="2" >
 			<footer>With the Best Speech Therapists of Uruguay 😉😉😉😉. 
 			The price can vary depending on the day and the therapist, ranging between $500 and $2900.</footer>
 		</td>
