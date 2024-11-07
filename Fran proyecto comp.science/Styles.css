@@ -1,0 +1,36 @@
+body{
+     background: 
+        url("audifon-logo-removebg-preview.png") no-repeat top left, 
+        url("images_oir-removebg-preview.png") no-repeat top right;
+    background-color: #faedcd;
+}
+h1{color: #003049;
+    font-family: Verdana, "Verdana neue", sans-serif;
+    font-size: 35pt;   
+    padding: 10px;
+}
+h2, h3, h4, h5{
+    color: #003049;
+    font-family: Verdana, "Verdana neue", sans-serif;
+    font-size: 20px;   
+    padding: 7px;
+}
+p{
+    color: #003049;
+    font-family: Verdana, "Verdana neue", sans-serif;
+    font-size: 15px;   
+    padding: 4px;
+    align-content: center;
+}
+img:hover{
+    transform: scale(1.2);
+}
+a{
+    text-decoration: none;
+    color: #3838fd;
+    margin: 15px;
+    font-size: 25px;
+}
+a:hover{
+    color: #980012;
+}
